@@ -1,8 +1,8 @@
 {
   "name": "Dr. S. Shekhar",
-  "qualification": "<p>★ Graduate in Exploration Geophysics from <b>Indian Institute of Technology (IIT Kharagpur, 2008 - All India Rank 2801)</b>.<br />★ PhD in High P-T research from <b>BGI, Germany (2011)</b>.<br />★ 15+ years of experience in mentoring JEE and NEET aspirants.</p>",
-  "subjects": "<p>JEE Main, JEE Advanced, NEET - Physics & Chemistry</p>",
-  "about": "<p>Dr. Shekhar is the co-founder of Wizgyan. An enterpreneur with several companies under his belt, he still loves to guide and mentor budding minds as his passion. He is known for his unique teaching methodology that simplifies complex theoretical concepts into intuitive mental models. He has helped over 1,000 students achieve top ranks in competitive exams across India.</p><p>His philosophy is: <i>'Understanding why is more important than knowing what.'</i></p>",
+  "qualification": "<p>★ Graduate in Exploration Geophysics from <b>Indian Institute of Technology (Kharagpur, 2003-2008 - All India Rank 2801)</b>.<br />★ PhD in High P-T research from <b>BGI, Germany (2011)</b>.<br />★ Elite Network of Bavaria Fellow</b>.<br />★ 15+ years of experience in mentoring JEE and NEET aspirants.</p>",
+  "subjects": "<p>JEE Main, JEE Advanced, NEET - Physics &amp; Chemistry</p>",
+  "about": "<p>Dr. Shekhar is the co-founder of Wizgyan. An enterpreneur with several companies under his belt, he still loves to guide and mentor budding minds as his passion. He is known for his unique teaching methodology that simplifies complex theoretical concepts into intuitive mental models. He has helped over 100 students achieve top ranks in competitive exams across India.</p><p>His philosophy is: <i>'Understanding why is more important than knowing what.'</i></p>",
   "profileImage": "profile.jpg",
   "social": {
     "facebook": "https://facebook.com/sushant.shekhar.fb",
@@ -11,24 +11,22 @@
   },
   "videos": [
     {
-      "filename": "Adaptive-AI-Learning.mp4",
-      "title": "Introduction to Adaptive Learning",
-      "description": "Learn how our AI system adapts to your unique learning speed and style."
+      "youtubeId": "S28ZlqK0JxM",
+      "title": "Free Body Diagram — Physics",
+      "subject": "Physics",
+      "description": "Master the concept of Free Body Diagrams — an essential tool for solving mechanics problems in JEE & NEET. Dr. Shekhar breaks down forces, constraints, and equilibrium with clarity."
     },
     {
-      "filename": "Instant-Doubt-Resolution.mp4",
-      "title": "Solving Doubts Instantly",
-      "description": "A demonstration of how Dr. Shekhar's methodology coupled with AI solves complex problems in seconds."
+      "youtubeId": "Z2FMSbqBbYc",
+      "title": "Quantum Numbers — Chemistry",
+      "subject": "Chemistry",
+      "description": "Understand the four quantum numbers (n, l, m, s) from first principles. Dr. Shekhar explains their physical significance, rules, and how to apply them to atomic structure problems."
     },
     {
-      "filename": "Learn-from-the-Masters.mp4",
-      "title": "The Masterclass Experience",
-      "description": "Sneak peek into a typical high-intensity masterclass for competitive exam prep."
-    },
-    {
-      "filename": "Your-Personal-Tutor.mp4",
-      "title": "Your 24/7 AI Personal Tutor",
-      "description": "How the AI tutor acts as a constant companion for your study sessions."
+      "youtubeId": "BZlENoEQn_Q",
+      "title": "Wave Equation — Physics",
+      "subject": "Physics",
+      "description": "A rigorous yet intuitive derivation of the wave equation. Learn how transverse waves on a string give rise to the fundamental wave equation used across physics and engineering."
     }
   ]
 }
