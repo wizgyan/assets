@@ -33,5 +33,9 @@
       "subject": "Physics",
       "description": "A rigorous yet intuitive derivation of the wave equation. Learn how transverse waves on a string give rise to the fundamental wave equation used across physics and engineering."
     }
-  ]
+  ],
+  "applicationForm": {
+    "url": "https://forms.gle/2PTqMZZDKm5zJZxc9",
+    "message": "Interested in joining the classes? Please fill out the application form below to register your interest."
+  }
 }
